@@ -6,7 +6,7 @@
 - Vem är jag?
 - Kursmål
 - Repetition
-- Svårare uppgifter finns längst
+- Svårare uppgifter finns längst ned
 
 ## Vem är jag?
 
