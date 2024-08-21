@@ -33,7 +33,7 @@
 ### Skapa ett API med nodeJS (server) och ExpressJS (REST-API)
 
 - Skapa ``package.json`` med
-  - ``npm init y``
+  - ``npm init -y``
 - Installera npm-paketen ``expressJS`` och ``nodemon``
   - ``npm install express``
   - ``npm install --save-dev nodemon``
